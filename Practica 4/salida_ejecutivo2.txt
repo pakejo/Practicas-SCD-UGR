@@ -1,0 +1,708 @@
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.205509
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.131682
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.118936
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.147859
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.135663
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.125813
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.154537
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.121947
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.141618
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.195975
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.211337
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.220583
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.235861
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.128505
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.141967
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.137903
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.161458
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.12911
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.194067
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.225964
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.213177
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.146848
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.211558
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.226812
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.193878
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.141984
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.194144
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.200175
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.194887
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.193715
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.194751
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.215963
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.225059
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.19588
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.209476
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.223306
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.224318
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.13807
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.132595
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.21838
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.216161
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.192622
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.190694
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.201174
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.228049
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.192426
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.145065
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.110795
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.152914
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.161644
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.232972
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.142764
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.14709
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.145635
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.210719
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.225182
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.128124
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.061978
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.193686
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.219053
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.192726
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.151099
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.192473
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.222714
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.210921
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.141796
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.121966
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.215314
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.191843
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.142705
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.142495
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.134218
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.198851
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.125468
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.141704
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.129435
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.142381
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.129214
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.139279
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.073041
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.225459
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.139274
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.148118
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.137712
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.144834
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.13342
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.145273
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.131011
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.211859
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.141567
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.137621
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.224528
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.099074
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.073046
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.126276
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.203475
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.207961
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.12421
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.137083
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.217818
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.117635
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.087518
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.140517
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.210284
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.133835
+
+Comienza iteración 2 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea D (C == 240 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.128259
+
+Comienza iteración 3 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+   Comienza tarea C (C == 200 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.128938
+
+Comienza iteración 4 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
+   Comienza tarea B (C == 150 ms.) ... fin.
+La diferencia de tiempo en milisegundos es: 0.223818
+
+---------------------------------------
+Comienza iteración del ciclo principal.
+
+Comienza iteración 1 del ciclo secundario.
+   Comienza tarea A (C == 100 ms.) ... fin.
